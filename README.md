@@ -1,7 +1,7 @@
 
 # 🍹 Bar à Cocktails - Simulation Concurrente
 
-![Tests](https://github.com/Daniele-Nana/bar_a_cocktails/actions/workflows/tests.yml/badge.svg)
+[![Tests et Couverture](https://github.com/Daniele-Nana/bar_a_cocktails/actions/workflows/tests.yml/badge.svg)](https://github.com/Daniele-Nana/bar_a_cocktails/actions/workflows/tests.yml)
 
 Projet de programmation concurrente en Python (Master 2 Data Science).
 
