@@ -1,0 +1,5 @@
+{
+  "bob": { "delai": 0.2, "verbose": true },
+  "alice": { "delai": 0.5, "verbose": true },
+  "clara": { "delai": 0.1, "verbose": true }
+}
